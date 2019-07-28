@@ -14,7 +14,7 @@
     <item>
       <title>cienne-fw15</title>
       <link>https://huangsihui.netlify.com/portfolio/test_portfolio/cienne-fw15/</link>
-      <pubDate>Sun, 14 Jul 2019 18:51:54 +0800</pubDate>
+      <pubDate>Sun, 14 Jul 2019 10:51:54 +0000</pubDate>
       
       <guid>https://huangsihui.netlify.com/portfolio/test_portfolio/cienne-fw15/</guid>
       <description>Client: Cienne
@@ -23,24 +23,6 @@ Year: 2015
 Campaign photography: Matthew Sprout
 Styling: Claudia Cifu
 Cienne is a New York-based women’s ready-to-wear collection. The brand combines a socially and environmentally conscious thinking with an elevated aesthetic. Cienne’s Fall—Winter ’15 campaign was created to complement the visual identity ( visit ), setting the look and feel for following collection imagery.</description>
-    </item>
-    
-    <item>
-      <title>cienne-book</title>
-      <link>https://huangsihui.netlify.com/portfolio/test_portfolio/cienne-book/</link>
-      <pubDate>Sun, 14 Jul 2019 18:31:56 +0800</pubDate>
-      
-      <guid>https://huangsihui.netlify.com/portfolio/test_portfolio/cienne-book/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>排版测试页面</title>
-      <link>https://huangsihui.netlify.com/portfolio/test_portfolio/for_test/</link>
-      <pubDate>Sat, 13 Jul 2019 15:22:01 +0800</pubDate>
-      
-      <guid>https://huangsihui.netlify.com/portfolio/test_portfolio/for_test/</guid>
-      <description></description>
     </item>
     
     <item>
@@ -142,19 +124,6 @@ Cienne is a New York-based women’s ready-to-wear collection. The brand combine
 2019 WWDC 大会上，苹果公司发布了 Find My 功能。与以前的 Find my iPhone 功能不同，这个功能可以用来追踪丢失的笔记本电脑，即使该电脑没有 GPS、也没有上网，都可以追踪。甚至只要贴一个标签，还可以追踪非电子物品，比如钱包。
 它的实现原理很简单，笔记本电脑将自已的 ID，通过蓝牙发射出去。周围只要有苹果手机，就能收到这个 ID，然后手机把 GPS 定位和这个 ID，上传到服务器，从而实现离线设备的定位。
 8、Raspberry Pi 4</description>
-    </item>
-    
-    <item>
-      <title>google-calendar</title>
-      <link>https://huangsihui.netlify.com/portfolio/test_portfolio/google-calendar/</link>
-      <pubDate>Sun, 14 Jul 2019 19:05:05 +0800</pubDate>
-      
-      <guid>https://huangsihui.netlify.com/portfolio/test_portfolio/google-calendar/</guid>
-      <description>Client: Google
-Services: Calendar Illustration
-Year: 2014
-A set of monthly header illustrations for Google’s redesigned Calendar app. Functioning as the app’s monthly dividers, the themes picture landscapes across seasons. The atmosphere of each month is conveyed through colors selected from Google’s Material Design palette, while little characters sprinkled throughout tell small stories within the images, their activities slowly changing with each season passing. Download app
-![][6]</description>
     </item>
     
     <item>
