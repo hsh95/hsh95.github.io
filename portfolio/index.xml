@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>作品展 on 黄斯慧的个人网站</title>
-    <link>https://hsh95.github.io/portfolio/</link>
+    <link>https://huangsihui.netlify.com/portfolio/</link>
     <description>Recent content in 作品展 on 黄斯慧的个人网站</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <lastBuildDate>Sun, 14 Jul 2019 19:05:05 +0800</lastBuildDate>
     
-	<atom:link href="https://hsh95.github.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://huangsihui.netlify.com/portfolio/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>cienne-fw15</title>
-      <link>https://hsh95.github.io/portfolio/test_portfolio/cienne-fw15/</link>
+      <link>https://huangsihui.netlify.com/portfolio/test_portfolio/cienne-fw15/</link>
       <pubDate>Sun, 14 Jul 2019 18:51:54 +0800</pubDate>
       
-      <guid>https://hsh95.github.io/portfolio/test_portfolio/cienne-fw15/</guid>
+      <guid>https://huangsihui.netlify.com/portfolio/test_portfolio/cienne-fw15/</guid>
       <description>Client: Cienne
 Services: Art Direction
 Year: 2015
@@ -27,45 +27,33 @@ Cienne is a New York-based women’s ready-to-wear collection. The brand combine
     
     <item>
       <title>cienne-book</title>
-      <link>https://hsh95.github.io/portfolio/test_portfolio/cienne-book/</link>
+      <link>https://huangsihui.netlify.com/portfolio/test_portfolio/cienne-book/</link>
       <pubDate>Sun, 14 Jul 2019 18:31:56 +0800</pubDate>
       
-      <guid>https://hsh95.github.io/portfolio/test_portfolio/cienne-book/</guid>
+      <guid>https://huangsihui.netlify.com/portfolio/test_portfolio/cienne-book/</guid>
       <description></description>
     </item>
     
     <item>
       <title>排版测试页面</title>
-      <link>https://hsh95.github.io/portfolio/test_portfolio/for_test/</link>
+      <link>https://huangsihui.netlify.com/portfolio/test_portfolio/for_test/</link>
       <pubDate>Sat, 13 Jul 2019 15:22:01 +0800</pubDate>
       
-      <guid>https://hsh95.github.io/portfolio/test_portfolio/for_test/</guid>
+      <guid>https://huangsihui.netlify.com/portfolio/test_portfolio/for_test/</guid>
       <description></description>
     </item>
     
     <item>
       <title>google-calendar</title>
-      <link>https://hsh95.github.io/portfolio/test_portfolio/google-calendar/</link>
+      <link>https://huangsihui.netlify.com/portfolio/test_portfolio/google-calendar/</link>
       <pubDate>Sun, 14 Jul 2019 19:05:05 +0800</pubDate>
       
-      <guid>https://hsh95.github.io/portfolio/test_portfolio/google-calendar/</guid>
+      <guid>https://huangsihui.netlify.com/portfolio/test_portfolio/google-calendar/</guid>
       <description>Client: Google
 Services: Calendar Illustration
 Year: 2014
 A set of monthly header illustrations for Google’s redesigned Calendar app. Functioning as the app’s monthly dividers, the themes picture landscapes across seasons. The atmosphere of each month is conveyed through colors selected from Google’s Material Design palette, while little characters sprinkled throughout tell small stories within the images, their activities slowly changing with each season passing. Download app
 ![][6]</description>
-    </item>
-    
-    <item>
-      <title>beautiful-icon</title>
-      <link>https://hsh95.github.io/portfolio/test_portfolio/beautiful-icon/</link>
-      <pubDate>Sun, 14 Jul 2019 19:00:38 +0800</pubDate>
-      
-      <guid>https://hsh95.github.io/portfolio/test_portfolio/beautiful-icon/</guid>
-      <description>Client: Beautified
-Services: Icon Illustration
-Year: 2014
-Illustrated icons for Beautified ( visit ), an app that helps find and book last-minute beauty appointments from a curated group of top-tier salons and spas. Used within the app to tag salons with the services and amenities they offer, the icons follow the brand color palette and add playfulness to the digital experience.</description>
     </item>
     
   </channel>
